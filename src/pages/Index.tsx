@@ -21,7 +21,7 @@ const Index = () => {
       </div>
       
       <div className="absolute bottom-8 text-muted-foreground text-sm">
-        © 2024 Michael Wamiti
+        © 2025 Michael Wamiti
       </div>
     </div>
   );
